@@ -2,6 +2,8 @@
 
 Inputs a content image and a style image. Takes content of content image and generates an image with that using Neural Networks, but with the style extracted from style image.
 
+![image](images/content_plus_style.png)
+
 ## Requirements
 - Tensorflow < 1.12
 - Python 3.5+
