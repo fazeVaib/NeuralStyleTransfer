@@ -22,3 +22,6 @@ Inputs a content image and a style image. Takes content of content image and gen
 
 ### Work in Progress:
 - Web implementation for easy access
+
+#### References:
+- Neural Style Transfer by Andrew Ng
